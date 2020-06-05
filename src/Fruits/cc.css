@@ -1,0 +1,28 @@
+ul {
+	list-style: none;
+	max-width: 300px;
+}
+li {
+	border-bottom: 1px solid #ccc;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.red {
+	background: red;
+}
+.yellow {
+	background: yellow;
+}
+.green {
+	background: green;
+}
+.orange {
+	background: orange;
+}
+.pink {
+	background: pink;
+}
+.black {
+	background: black;
+}
